@@ -15,9 +15,9 @@ Solution:
 
 Here are the things that I used to build this:
 
-1. Net Beans
-2. Maven
-3. Object Oriented Programming
-4. Design Patterns
-5. Java Core
+1. Java 8
+2. Net Beans
+3. Maven
+4. Object Oriented Programming
+5. Design Patterns
 6. Jackson Core
